@@ -1,0 +1,13 @@
+{
+  "name": "cs2-tradeup-math",
+  "version": "1.0.0",
+  "description": "The maths behind Counter-Strike 2 trade up contracts: odds, normalised float, expected value and ROI. Zero dependencies.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "files": ["src"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["cs2", "csgo", "counter-strike", "trade-up", "trade up contract", "float", "skins", "steam"],
+  "homepage": "https://cs2tradeup.gg",
+  "license": "MIT"
+}
