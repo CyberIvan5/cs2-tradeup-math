@@ -2,7 +2,7 @@
 
 The maths behind Counter-Strike 2 trade up contracts, as a tiny zero-dependency JavaScript library: outcome odds, the CS2 normalised float formula, expected value, ROI and chance of profit. It powers the free calculator at **[cs2tradeup.gg](https://cs2tradeup.gg)**.
 
-Rules implemented (current as of the October 23, 2025 and May 22, 2026 CS2 updates):
+Rules implemented (current as of the October 22, 2025 and May 22, 2026 CS2 updates):
 
 - 10 skins of one rarity → 1 skin of the next rarity, drawn only from the input collections
 - 5 Covert skins → 1 knife or pair of gloves from the case collection of one of the inputs

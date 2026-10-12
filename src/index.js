@@ -2,7 +2,7 @@
  * cs2-tradeup-math — the maths behind Counter-Strike 2 trade up contracts.
  * Zero dependencies. Works in Node (ESM) and the browser.
  *
- * Rules implemented (as of the October 23, 2025 and May 22, 2026 CS2 updates):
+ * Rules implemented (as of the October 22, 2025 and May 22, 2026 CS2 updates):
  *  - 10 skins of one rarity -> 1 skin of the next rarity, from the input collections only
  *  - 5 Covert skins -> 1 knife or gloves from the case collection of one of the inputs
  *  - Normalised float: each input's position inside its own float range is averaged,
