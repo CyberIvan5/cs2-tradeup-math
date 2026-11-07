@@ -12,10 +12,10 @@ Rules implemented (current as of the October 22, 2025 and May 22, 2026 CS2 updat
 ## Install
 
 ```
-npm install github:CyberIvan5/cs2-tradeup-math
+npm install cs2-tradeup-math
 ```
 
-or copy `src/index.js`; it is a single ES module.
+or straight from GitHub (`npm install github:CyberIvan5/cs2-tradeup-math`), or copy `src/index.js`; it is a single ES module.
 
 ## Usage
 
@@ -84,7 +84,7 @@ A longer explanation with worked examples: [CS2 trade up guide](https://cs2trade
 
 ## Data
 
-This library has no price or collection data on purpose. Collection contents and float ranges are in the game files; prices change by the hour. [cs2tradeup.gg](https://cs2tradeup.gg) runs these formulas against live prices from Steam and 11 marketplaces and publishes [which contracts are profitable right now](https://cs2tradeup.gg/profitable-cs2-trade-ups).
+This library has no price or collection data on purpose. Collection contents and float ranges are in the game files; prices change by the hour. [cs2tradeup.gg](https://cs2tradeup.gg) runs these formulas against live prices from Steam and 12 marketplaces and publishes [which contracts are profitable right now](https://cs2tradeup.gg/profitable-cs2-trade-ups).
 
 ## Tests
 

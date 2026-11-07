@@ -5,9 +5,30 @@
   "type": "module",
   "main": "src/index.js",
   "exports": "./src/index.js",
-  "files": ["src"],
-  "scripts": { "test": "node --test" },
-  "keywords": ["cs2", "csgo", "counter-strike", "trade-up", "trade up contract", "float", "skins", "steam"],
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "cs2",
+    "csgo",
+    "counter-strike",
+    "trade-up",
+    "trade up contract",
+    "trade up calculator",
+    "float",
+    "skins",
+    "steam"
+  ],
   "homepage": "https://cs2tradeup.gg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberIvan5/cs2-tradeup-math.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CyberIvan5/cs2-tradeup-math/issues"
+  },
   "license": "MIT"
 }
